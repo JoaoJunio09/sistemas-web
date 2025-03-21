@@ -1,0 +1,13 @@
+form {
+    border: 1px solid black;
+    padding: 50px;
+}
+
+form div {
+    padding: 10px;
+}
+
+.title {
+    font-size: 20px;
+    text-align: center;
+}
